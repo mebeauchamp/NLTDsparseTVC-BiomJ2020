@@ -6,8 +6,6 @@
 
 # Last update: December 24, 2019
 
-## NOTE: It includes investigations on the 
-
 ### Simulations settings ###
 
 rm(list=ls())

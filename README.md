@@ -1,5 +1,5 @@
 # NLTDsparseTVC-BiomJ2020
-R code for simulations in article "Wang Y, Beauchamp ME, Abrahamowicz M. Non-linear and time-dependent effects of sparsely measured continuous time-varying covariates in time-to-event analysis. *Biom J* 2020".
+R code for simulations in article "Wang Y, Beauchamp ME, Abrahamowicz M. Non-linear and time-dependent effects of sparsely measured continuous time-varying covariates in time-to-event analysis. *Biom J* 2020;62(2):492-515. doi: 10.1002/bimj.201900042".
 ## Description
 Original code developed by Yishu Wang, with some earlier parts developped by Willy Wynant.
 Modifications, corrections, and extensions of the code by Marie-Eve Beauchamp.
